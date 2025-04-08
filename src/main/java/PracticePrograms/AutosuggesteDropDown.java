@@ -37,6 +37,7 @@ public class AutosuggesteDropDown {
 			Thread.sleep(4000);
 			option.click();
 			break;
+			// adding breaks here
 		}
 	}
 		
